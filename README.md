@@ -4,4 +4,4 @@ This is a simple readme file
 
 more changes
 
-some more changes, with a comma
+Here are changes for stashing
